@@ -1,0 +1,10 @@
+C:\Users\tomho\Desktop\C#\Project\RaceTrackPrj\RaceTrackPrj\bin\Debug\RaceTrackPrj.exe.config
+C:\Users\tomho\Desktop\C#\Project\RaceTrackPrj\RaceTrackPrj\bin\Debug\RaceTrackPrj.exe
+C:\Users\tomho\Desktop\C#\Project\RaceTrackPrj\RaceTrackPrj\bin\Debug\RaceTrackPrj.pdb
+C:\Users\tomho\Desktop\C#\Project\RaceTrackPrj\RaceTrackPrj\obj\Debug\RaceTrackPrj.csprojAssemblyReference.cache
+C:\Users\tomho\Desktop\C#\Project\RaceTrackPrj\RaceTrackPrj\obj\Debug\RaceTrackPrj.frmGame.resources
+C:\Users\tomho\Desktop\C#\Project\RaceTrackPrj\RaceTrackPrj\obj\Debug\RaceTrackPrj.Properties.Resources.resources
+C:\Users\tomho\Desktop\C#\Project\RaceTrackPrj\RaceTrackPrj\obj\Debug\RaceTrackPrj.csproj.GenerateResource.cache
+C:\Users\tomho\Desktop\C#\Project\RaceTrackPrj\RaceTrackPrj\obj\Debug\RaceTrackPrj.csproj.CoreCompileInputs.cache
+C:\Users\tomho\Desktop\C#\Project\RaceTrackPrj\RaceTrackPrj\obj\Debug\RaceTrackPrj.exe
+C:\Users\tomho\Desktop\C#\Project\RaceTrackPrj\RaceTrackPrj\obj\Debug\RaceTrackPrj.pdb
